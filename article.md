@@ -1,11 +1,18 @@
 title: "Epidemie COVID‑19 jako příležitost pro politická rozhodnutí založená na vědeckých důkazech"
-perex: ""
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
+perex: "Naši čelní představitelé necítí potřebu svá rozhodnutí racionálně zdůvodňovat. Kvalitu rozhodnutí naší vlády nelze přezkoumat, když neznáme podklady, na jejichž základě k těmto rozhodnutím dochází, píše v eseji pro server iROZHLAS.cz psycholog a statistik Hynek Cígler."
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/plo_test_5_200423-125827_mda.jpg?itok=RdlfJ9bO
+coverimg_note: "Foto iROZHLAS.cz - Michaela Danelová"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
+<right>
+<h3>O autorovi</h3>
+<p><strong>Mgr. Hynek Cígler, Ph.D.</strong> je výzkumník a vysokoškolský pedagog působící na Katedře psychologie Fakulty sociálních studií Masarykovy univerzity.</p>
+<p>Zaměřuje se na metodologické a statistické aspekty psychologie, zejména na psychometriku, tedy vývoj nástrojů pro měření psychických charakteristik. Kromě toho se zabývá matematickými schopnostmi a způsobem, jakým si děti osvojují koncept čísel.</p>
+<p>Je také autorem aplikace <a href="https://hynekcigler.shinyapps.io/COVID-19/">Chybovost a spolehlivost testů na přítomnost viru SARS-CoV-2</a>.</p>
+</right>
+
 V posledních více než 100 letech se nejefektivnějším nástrojem pro nalézání odpovědí na palčivé otázky a řešení obtížných problémů stala vědecká metoda, tedy zjednodušeně rozhodování na základě důkazů, dat a předchozích teoretických poznatků. Právě vědě vděčíme za nesmírně úspěšnou medicínu, techniku, dopravu a celkovou kvalitu našich životů. Rozhodování ve věcech veřejného zájmu a nejvyšší politické důležitosti však nečekaným způsobem ignoruje vědecká zjištění a vědecké postupy, nebo je přinejmenším nevyužívá. Příkladem může být i současná epidemie koronaviru COVID‑19, kdy sledujeme chaotické rozhodování našich čelných představitelů, kteří nejsou schopni racionálně zdůvodnit svá opatření. Přitom právě tato situace by mohla být výtečným příkladem užitečnosti postupů založených na důkazech, který by mohl vést k minimalizaci ztrát na životech, snížení ekonomických dopadů pandemie a co nejmenším důsledkům na veřejný život více.
 
 Následující text proto nastíní cíle a principy vědecké metody a uvede její úspěšnou, stejně jako neúspěšnou implementaci do politických rozhodnutí. Popíšu rovněž, jaké jsou charakteristiky dobré vědy dneška, a proč tolik chybí ve veřejném prostoru. Závěrem nastíním doporučení, jak zefektivnit náš boj s pandemií viru COVID‑19, a jakým způsobem by nám uplatňování moderních vědeckých postupů mohlo pomoci.
@@ -92,9 +99,6 @@ Dodržení těchto bodů povede k nutnosti politiků argumentovat jejich kroky v
 
 Je zřejmé, že zejména poslední důsledek navrhovaných změn nutně působí odpor stávajících politických hráčů. Je příjemné nemuset argumentovat svá rozhodnutí, případně je podložit nejasně formulovanými argumenty. Chci však připomenout, že dopady dnešních chybných rozhodnutí či neuskutečnění takových rozhodnutí pocítíme jako občané České republiky během několika málo měsíců. Dnes je pravý čas využít tuto situaci, pokusit se prosadit lepší způsob rozhodování ve veřejném prostoru. Nejenže zachráníme více životů a snížíme ekonomické dopady na Českou republiku, ale nabídneme světu něco, co není zcela samozřejmé; racionální chování státu a rozhodování založené na důkazech. Jsme dostatečně malá země, aby bylo možné podobně radikální krok prosadit nejen při řešení dnešní epidemie, ale při veřejném rozhodování obecně. Není mnoho věcí, které by mně jako vědci udělaly větší radost.
 
-## O autorovi textu
-
-Mgr. Hynek Cígler, Ph.D., je výzkumník a vysokoškolský pedagog působící na Katedře psychologie Fakulty sociálních studií Masarykovy univerzity. Zaměřuje se na metodologické a statistické aspekty psychologie, zejména na psychometriku, tedy vývoj nástrojů pro měření psychických charakteristik. Kromě toho se zabývá matematickými schopnostmi a způsobem, jakým si děti osvojují koncept čísel.
 
 ## Doplňkové informace pro umístění do textu
 
