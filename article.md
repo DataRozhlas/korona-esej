@@ -27,6 +27,12 @@ Dobře víme, že evidence‑based přístup je základem kvalitního politické
 
 Ostatně i během zadávání veřejných zakázek v podobě stavebních prací, jako jsou nové dálnice, nádraží, přehrady či opravy stávající infrastruktury, bývají nedílnou součástí studie proveditelnosti, nákladů a přínosů, dopadů na životní prostředí a řada dalších.
 
+<wide>
+<figure>
+<img src="">
+</figure>
+</wide>
+
 V řadě případů je však vědecká metoda ignorována. Příkladem může být plánování oprav veřejných komunikací ve velkých městech. Ačkoli máme k dispozici dopravní modely, které dokáží s vysokou spolehlivostí predikovat změny v dopravním chování, vznik dopravních zácp v důsledku uzavírek či argumentovat nezbytnost výstavby dočasných řešení po dobu rekonstrukcí, jen některá z českých měst tyto predikce využívají. Častější je rozhodování „od stolu&quot;, které vede nejen k neefektivním rekonstrukcím, ale i k tzv. externalitám; tedy například ekonomickým, finančním či morálním ztrátám v důsledku nespokojenosti obyvatel, pomalého dojíždění do práce a souvisejících změn v chování lidí, nehledě na případné plýtvání veřejnými prostředky.
 
 ## Překážky politických rozhodnutí založených na důkazech
