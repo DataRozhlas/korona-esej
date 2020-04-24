@@ -21,17 +21,18 @@ Následující text proto nastíní cíle a principy vědecké metody a uvede je
 
 V průběhu posledních sta let se mnohokrát ověřilo, že vědecká metoda a evidence‑based (na důkazech založený) přístup je nejefektivnější metodou pro řešení (nejen) veřejných problémů. Právě díky vědě máme k dispozici nejen nejmodernější léčiva a medicínské postupy, počítače a chytré telefony, elektromobily, komunikační a telekonferenční nástroje používané během současné epidemie, ale třeba i statistické a analytické modely používané pro tvorbu epidemiologických predikcí či nástroje pro pochopení toho, jaké budou dopady karantény na prožívání a chování našich občanů.
 
-<!--[[ZPRAVY_ARTICLE:8187315:1:1]]-->
+<wide>
+<figure>
+<img src="https://data.irozhlas.cz/korona-esej/media/experiment.jpg" width="100%">
+<figcaption>Joseph Wright: Experiment na ptáku ve vývěvě | Foto: <a href="https://cs.m.wikipedia.org/wiki/Experiment_na_pt%C3%A1ku_ve_v%C3%BDv%C4%9Bv%C4%9B">Wikimedia Commons</a></figcaption>
+</figure>
+</wide>
 
 Dobře víme, že evidence‑based přístup je základem kvalitního politického rozhodování. Při tvorbě důchodové reformy a plánování státního rozpočtu jsou (nebo by alespoň měly být) používány ekonomické poznatky. Ekonomické a demografické modelování by mělo být jejich nedílnou součástí. Vědecká metoda je nedílnou součástí zdravotního systému; lékaři jsou povinni léčit „lege artis&quot; a užívat tzv. „best‑practice&quot; postupy, tedy pracovat v souladu se stávajícími vědeckými poznatky. Léčba v rozporu s nimi, stejně jako použití dosud neověřených postupů, zůstává jen léčitelstvím, alternativní „medicínou&quot; (která s medicínou jako takovou má jen pramálo společného) či experimentální léčbou, jejímž primárním cílem není zachránit život jednoho konkrétního pacienta, ale vyvinout postupy, které zachrání životy většího množství pacientů v budoucnu.
 
-Ostatně i během zadávání veřejných zakázek v podobě stavebních prací, jako jsou nové dálnice, nádraží, přehrady či opravy stávající infrastruktury, bývají nedílnou součástí studie proveditelnosti, nákladů a přínosů, dopadů na životní prostředí a řada dalších.
+<!--[[ZPRAVY_ARTICLE:8187315:1:1]]-->
 
-<wide>
-<figure>
-<img src="">
-</figure>
-</wide>
+Ostatně i během zadávání veřejných zakázek v podobě stavebních prací, jako jsou nové dálnice, nádraží, přehrady či opravy stávající infrastruktury, bývají nedílnou součástí studie proveditelnosti, nákladů a přínosů, dopadů na životní prostředí a řada dalších.
 
 V řadě případů je však vědecká metoda ignorována. Příkladem může být plánování oprav veřejných komunikací ve velkých městech. Ačkoli máme k dispozici dopravní modely, které dokáží s vysokou spolehlivostí predikovat změny v dopravním chování, vznik dopravních zácp v důsledku uzavírek či argumentovat nezbytnost výstavby dočasných řešení po dobu rekonstrukcí, jen některá z českých měst tyto predikce využívají. Častější je rozhodování „od stolu&quot;, které vede nejen k neefektivním rekonstrukcím, ale i k tzv. externalitám; tedy například ekonomickým, finančním či morálním ztrátám v důsledku nespokojenosti obyvatel, pomalého dojíždění do práce a souvisejících změn v chování lidí, nehledě na případné plýtvání veřejnými prostředky.
 
@@ -45,7 +46,7 @@ Posledním důvodem jsou vedlejší motivy důležitých hráčů. Všichni mám
 
 ## Charakteristiky dnešní epidemie
 
-Epidemie koronaviru COVID‑19 je v celé řadě odlišná oproti stavu, ve kterém probíhají běžná veřejná rozhodnutí popsaná výše. Čelíme bezprecedentní situaci, jejíž obdobu většina české a vůbec „západní&quot; populace ve svém životě nepamatuje. Hrozby dnešní pandemie jsou naprosto evidentní a hmatatelné: každý den sledujeme zpravodajství s aktuálními počty mrtvých a nakažených u nás i ve světě. Jsme nuceni měnit své chování, návyky a životní rytmus. K nepoznání se změnil veřejný prostor; tam, kde dřív byly davy, dnes prochází pár osamělých postav; tam, kde se na nás usmívaly či mračily cizí obličeje, vidíme jen anonymní bílé roušky. Naši rodiče, prarodiče či my sami se bojíme vycházet na veřejnost a potkávat se z důvodu oprávněných obav o svůj život a život svých blízkých. Nevíme, jak dlouho budou opatření trvat, zda jsou dostatečná či příliš mírná, a tato nejistota má značné dopady na naši psychiku, pocit bezpečí a jistoty.
+Epidemie koronaviru COVID‑19 je v celé řadě aspektů odlišná oproti stavu, ve kterém probíhají běžná veřejná rozhodnutí popsaná výše. Čelíme bezprecedentní situaci, jejíž obdobu většina české a vůbec „západní&quot; populace ve svém životě nepamatuje. Hrozby dnešní pandemie jsou naprosto evidentní a hmatatelné: každý den sledujeme zpravodajství s aktuálními počty mrtvých a nakažených u nás i ve světě. Jsme nuceni měnit své chování, návyky a životní rytmus. K nepoznání se změnil veřejný prostor; tam, kde dřív byly davy, dnes prochází pár osamělých postav; tam, kde se na nás usmívaly či mračily cizí obličeje, vidíme jen anonymní bílé roušky. Naši rodiče, prarodiče či my sami se bojíme vycházet na veřejnost a potkávat se z důvodu oprávněných obav o svůj život a život svých blízkých. Nevíme, jak dlouho budou opatření trvat, zda jsou dostatečná či příliš mírná, a tato nejistota má značné dopady na naši psychiku, pocit bezpečí a jistoty.
 
 <!--[[ZPRAVY_ARTICLE:8165223:1:1]]-->
 
@@ -53,7 +54,7 @@ V dnešní situaci je navíc čas mezi příčinou a jejími důsledky zkrácen�
 
 A konečně, vidíme bezprecedentní vlnu solidarity a dobrovolnictví na všech úrovních: při pomocí seniorům, při šití roušek, při tvorbě softwarových nástrojů. Lidé přestali projevovat svůj názor prostými slovy, ale přiložili ruku ke společnému dílu.
 
-## Rozhodování v České republice
+## Trendy současné vědy
 
 Na jednu stranu se zdá, že rozhodování našich čelných představitelů je založeno na empirických důkazech a doporučení odborníků. Mohlo by nás to proto svést k mylnému dojmu, že strategie české vlády je založena na vědecké metodě. To však v žádném případě není pravda. Na vědecké metodě jsou založeny pouze dílčí kroky; vývoj léčiv, vakcín, diagnostických testů, „self‑made&quot; plicních ventilátorů. Postup naší vlády a – nutno podotknout – prakticky všech vlád v současném světě však tyto znaky postrádá.
 
@@ -67,11 +68,18 @@ Stejná situace nastává i v případě řešení otázky, jak zvládnout prob�
 
 Klíčovým pravidlem dobré vědy je „přezkoumatelnost&quot; a hlavně „replikovatelnost&quot; jejích závěrů. V televizi sledujeme vyjádření prof. Prymuly ohledně epidemiologických závěrů a toho, kolik lidí bude infikovaných, mrtvých či uzdravených na konci dubna či května. To je jistě zajímavé, ale jak jsou tyto modely kvalitní, jaký je jejich vztah s navrhovanými opatřeními? Nehledě na vstupní data (která dnes nemáme k dispozici), jsou modely správně navržené? Nebylo by možné vyvinout lepší modely, na kterých by se dala připravit vhodnější rozhodnutí? Podobně jsme byli v neděli 12. dubna svědky vyjádření, že některá opatření budou moci být zrušena, pokud denní přírůstek nakažených nedosáhne 400 osob. Proč právě 400 osob, a ne 350 nebo 500? Na čem je to číslo založeno? Jaké by byly důsledky uvolnění, nebo naopak neuvolnění opatření? Naši čelní představitelé necítí potřebu svá rozhodnutí racionálně zdůvodňovat, a to je podle mého názoru klíčovým problémem.
 
-<!--[[ZPRAVY_ARTICLE:8184291:1:1]]-->
+<wide>
+<figure>
+<img src="https://data.irozhlas.cz/korona-esej/media/filosof.jpg" width="100%">
+<figcaption>Joseph Wright: Filosof předvádí tellurium | Foto: <a href="https://cshttps://cs.m.wikipedia.org/wiki/Filosof_p%C5%99edv%C3%A1d%C3%AD_tellurium">Wikimedia Commons</a></figcaption>
+</figure>
+</wide>
 
 Pokud jsou správné epidemiologické modely, které má k dispozici vláda a krizový štáb, není důvod je nezveřejnit. Odborná veřejnost by je jistě ocenila. Pokud jsou tyto modely špatné, je naopak ve veřejném zájmu je dát k dispozici; je dost možné, že v takovém případě by některý z českých vědců dokázal vyvinout lepší model a zlepšit tak státní rozhodnutí. Podobně bychom uvítali zdůvodnění již zmíněné hranice 400 nově nakažených a podrobili jej veřejné kritice. To však není možné, pokud neznáme důvody, které k tomuto kritériu vedly. A nedostupnost těchto důvodů není oblíbeným terčem kritiky; našim představitelům buď důvěřujeme, nebo nikoliv, ale nejsme zvyklí jejich rozhodnutí podrobovat věcné kontrole.
 
 Podobnou situací je rovněž i plánovaný průzkum prevalence infekce na náhodném vzorku obyvatel. Ačkoli jde o nesmírně užitečný krok, zůstává otázkou, nakolik dobře je naplánovaný. Je přínos potenciálních zjištění tohoto průzkumu opravdu nejlepší investicí peněz? Nebylo by možné s nižšími náklady získat více informací drobnou změnou výzkumné metody?
+
+<!--[[ZPRAVY_ARTICLE:8184291:1:1]]-->
 
 Jinými slovy, publikace vědeckých postupů, analýz a vůbec podkladů pro politická rozhodnutí přináší prakticky jen samé výhody a minimum nevýhod pro společnost jako celek, ačkoli pro zúčastněné osoby (politiky, vědce i zapojené odborníky může jít o relativně nepříjemný krok). Stačí vlastně jen dát odborné veřejnosti k dispozici analýzy, statistické modely a další podklady pro veškerá veřejná rozhodnutí. Je možné, že se v současné vlně společenské solidarity a dobrovolnictví najde dosud neznámý vědec, který navrhne mnohem efektivnější řešení. A pokud se tak nestane a analýzy se ukáží jako správné, politická rozhodnutí nabývají značné legitimity. Naopak nedostupnost těchto podkladů je v mých očích automatickým argumentem pro nízkou kvalitu veřejného rozhodování.
 
@@ -103,7 +111,14 @@ Na důkazech postavené rozhodování v politice tedy v žádném případě nes
 
 Ne, naše vláda nerozhoduje na základě vědecké metody. Rozhoduje na základě dojmů a pocitů jednotlivých představitelů, rozhoduje překotně a bez jasného plánu, jak ostatně sledujeme v živém přenosu, kdy se stanoviska mění jako na běžícím pásu. Kvalitu rozhodování našich politiků nejde přezkoumat. I pokud se vláda odkazuje na stanovisko odborníků, tito odborníci zůstávají anonymní, jejich závěry jsou zkresleny prvně politiky samotnými, následně pak médii. Tato situace je jistě příjemná pro politiky, protože nemusí veřejnosti nic vysvětlovat; je však naprosto nepřijatelná pro občany naší země, protože nevede k optimálnímu rozhodování v našem a tedy veřejném zájmu.
 
-Současnou epidemii můžeme chápat jako příležitost. Na tomto místě vyzývám jednotlivé politické strany, aby se chopily příležitosti, a požadovali na naší vládě splnění několika jednoduchých návrhů:
+<wide>
+<figure>
+<img src="https://data.irozhlas.cz/korona-esej/media/sarlatan.jpg" width="100%">
+<figcaption>Petr Brandl: U šarlatána | Foto: Národní galerie</figcaption>
+</figure>
+</wide>
+
+Současnou epidemii můžeme chápat jako příležitost. Na tomto místě vyzývám jednotlivé politické strany, aby se chopily příležitosti, a požadovaly na naší vládě splnění několika jednoduchých návrhů:
 
 1. Vytvoření multidisciplinárního týmu pro řešení otázky epidemie COVID‑19, ve kterém nebudou politici, ale odborníci na jednotlivé oblasti, a kteří budou poskytovat vládě potřebné podklady. Tento tým nemůže zahrnovat výhradně epidemiology; vědci z různých oblastí ekonomie, medicíny, statistiky, sociální práce apod. spolu musí být v kontaktu, aby dokázali jednotlivá doporučení připravovat společně a v souladu. Tato doporučení navíc nemusí být jednoznačná, mohou nejistotu zahrnovat, a na politicích (a veřejnosti) již bude, které z nich si vybere.
 
